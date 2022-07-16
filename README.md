@@ -5,3 +5,5 @@
 - 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything
 - 😄 Pronouns: what are these? :smile:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allexpy)](https://github.com/anuraghazra/github-readme-stats)
