@@ -21,4 +21,7 @@
 <br/>
 
 ### Interests
-<br>
+
+- Reading
+- Sports, in general i prefer football, but any kind of sport will do for me.
+- Gaming
