@@ -6,5 +6,5 @@
 - 💬 Ask me about anything
 - 😄 Pronouns: what are these? :smile:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allexpy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allexpy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allexpy&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allexpy&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
